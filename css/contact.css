@@ -1,0 +1,36 @@
+.contact tr {
+  height: 7rem;
+}
+
+.contact th {
+  width: 150px;
+  text-align: right;
+}
+
+.form {
+  width: 480px;
+}
+
+.contact td {
+  padding-left: 10px;
+}
+
+.btn {
+  background-color: #008B8B;
+  font-size: 3rem;
+  color: #fff;
+  border: hidden;
+  padding: 10px;
+}
+
+.btn:hover {
+  opacity: 0.5;
+}
+
+form {
+  text-align: center;
+}
+
+.sex {
+  text-align: left;
+}
